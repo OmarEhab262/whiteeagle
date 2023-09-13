@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/whiteeagle/static/css/main.ce25ccca.css",
-    "main.js": "/whiteeagle/static/js/main.caf5b872.js",
+    "main.css": "/whiteeagle/static/css/main.53b4568f.css",
+    "main.js": "/whiteeagle/static/js/main.b4036e5c.js",
     "static/media/card.svg": "/whiteeagle/static/media/card.a9a99fae8700343b34331ef9472bd340.svg",
     "static/media/MainFont.ttf": "/whiteeagle/static/media/MainFont.0bff71d9b37001e42b93.ttf",
     "static/media/mainpage.svg": "/whiteeagle/static/media/mainpage.620ced51979d51e7eadb213df37b7b14.svg",
@@ -36,11 +36,11 @@
     "index.html": "/whiteeagle/index.html",
     "static/media/facebook.svg": "/whiteeagle/static/media/facebook.1de556d9e9f91bf9e1304809c2d55c06.svg",
     "static/media/download.svg": "/whiteeagle/static/media/download.f0de33d85e21001b5a472f63377a0a27.svg",
-    "main.ce25ccca.css.map": "/whiteeagle/static/css/main.ce25ccca.css.map",
-    "main.caf5b872.js.map": "/whiteeagle/static/js/main.caf5b872.js.map"
+    "main.53b4568f.css.map": "/whiteeagle/static/css/main.53b4568f.css.map",
+    "main.b4036e5c.js.map": "/whiteeagle/static/js/main.b4036e5c.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce25ccca.css",
-    "static/js/main.caf5b872.js"
+    "static/css/main.53b4568f.css",
+    "static/js/main.b4036e5c.js"
   ]
 }
