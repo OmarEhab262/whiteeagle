@@ -1,12 +1,9 @@
 {
   "files": {
-    "main.css": "/whiteeagle/static/css/main.53b4568f.css",
-    "main.js": "/whiteeagle/static/js/main.b4036e5c.js",
-    "static/media/card.svg": "/whiteeagle/static/media/card.a9a99fae8700343b34331ef9472bd340.svg",
+    "main.css": "/whiteeagle/static/css/main.3d0f79d9.css",
+    "main.js": "/whiteeagle/static/js/main.e48b1111.js",
     "static/media/MainFont.ttf": "/whiteeagle/static/media/MainFont.0bff71d9b37001e42b93.ttf",
     "static/media/mainpage.svg": "/whiteeagle/static/media/mainpage.620ced51979d51e7eadb213df37b7b14.svg",
-    "static/media/Ticket.png": "/whiteeagle/static/media/Ticket.c4528805b03ffc8c63fe.png",
-    "static/media/img.svg": "/whiteeagle/static/media/img.17dffe5e4105e17a8a5fd6efdedcaef5.svg",
     "static/media/about.svg": "/whiteeagle/static/media/about.d3892ad4e82d6ef9b8449c2f974b2b71.svg",
     "static/media/footerLogo.svg": "/whiteeagle/static/media/footerLogo.e0c8faf311b70c2a6e7546b3e7eab4fd.svg",
     "static/media/logo.svg": "/whiteeagle/static/media/logo.425a1941182c5713f4fdd7368db2b233.svg",
@@ -28,19 +25,16 @@
     "static/media/twitter.svg": "/whiteeagle/static/media/twitter.dba408b710049925d4598cda4314b5b5.svg",
     "static/media/massage.svg": "/whiteeagle/static/media/massage.cdf3a767b64c06915963a7cdfc993733.svg",
     "static/media/insat.svg": "/whiteeagle/static/media/insat.d5ecc74de46f5a0ee806006ae64d2588.svg",
-    "static/media/s3.svg": "/whiteeagle/static/media/s3.9e12e9c0b98e0ad1e54386e71d2a8bc8.svg",
-    "static/media/s2.svg": "/whiteeagle/static/media/s2.b75a73603b52bc4b54aa7ba7f621fef5.svg",
     "static/media/tiktok.svg": "/whiteeagle/static/media/tiktok.2d4200554ade5ad152a75353e731bec2.svg",
     "static/media/location.svg": "/whiteeagle/static/media/location.b634be2146b917649a39265da3fb087a.svg",
     "static/media/clock.svg": "/whiteeagle/static/media/clock.5c7cc8e24b69059e1a18934c9edb6160.svg",
     "index.html": "/whiteeagle/index.html",
     "static/media/facebook.svg": "/whiteeagle/static/media/facebook.1de556d9e9f91bf9e1304809c2d55c06.svg",
-    "static/media/download.svg": "/whiteeagle/static/media/download.f0de33d85e21001b5a472f63377a0a27.svg",
-    "main.53b4568f.css.map": "/whiteeagle/static/css/main.53b4568f.css.map",
-    "main.b4036e5c.js.map": "/whiteeagle/static/js/main.b4036e5c.js.map"
+    "main.3d0f79d9.css.map": "/whiteeagle/static/css/main.3d0f79d9.css.map",
+    "main.e48b1111.js.map": "/whiteeagle/static/js/main.e48b1111.js.map"
   },
   "entrypoints": [
-    "static/css/main.53b4568f.css",
-    "static/js/main.b4036e5c.js"
+    "static/css/main.3d0f79d9.css",
+    "static/js/main.e48b1111.js"
   ]
 }
