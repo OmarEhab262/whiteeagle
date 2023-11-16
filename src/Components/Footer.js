@@ -11,7 +11,7 @@ function Footer() {
     <div className="footer bg-light text-center mt-5 p-3">
       <div className="logoFooter m-5">
         <h2 className="mt-4" style={{ fontSize: "32px", color: "#041461" }}>
-          تواصل معنا
+          لتواصل معنا
         </h2>
       </div>
       <div className="container contact">
