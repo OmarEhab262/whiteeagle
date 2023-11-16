@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/whiteeagle/static/css/main.ace7a806.css",
-    "main.js": "/whiteeagle/static/js/main.c5f3b47c.js",
+    "main.js": "/whiteeagle/static/js/main.4fdf386b.js",
     "static/media/MainFont.ttf": "/whiteeagle/static/media/MainFont.0bff71d9b37001e42b93.ttf",
     "static/media/mainpage.svg": "/whiteeagle/static/media/mainpage.620ced51979d51e7eadb213df37b7b14.svg",
     "static/media/w5.jpg": "/whiteeagle/static/media/w5.98a81d0695214170614f.jpg",
@@ -37,10 +37,10 @@
     "index.html": "/whiteeagle/index.html",
     "static/media/facebook.svg": "/whiteeagle/static/media/facebook.1de556d9e9f91bf9e1304809c2d55c06.svg",
     "main.ace7a806.css.map": "/whiteeagle/static/css/main.ace7a806.css.map",
-    "main.c5f3b47c.js.map": "/whiteeagle/static/js/main.c5f3b47c.js.map"
+    "main.4fdf386b.js.map": "/whiteeagle/static/js/main.4fdf386b.js.map"
   },
   "entrypoints": [
     "static/css/main.ace7a806.css",
-    "static/js/main.c5f3b47c.js"
+    "static/js/main.4fdf386b.js"
   ]
 }
