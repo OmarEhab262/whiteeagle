@@ -1,0 +1,7 @@
+.footer .icon a {
+    transition: .5s;
+}
+
+.footer .icon a:hover {
+    opacity: .8;
+}

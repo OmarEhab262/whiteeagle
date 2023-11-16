@@ -1,0 +1,65 @@
+.home {
+    width: 100%;
+}
+
+.home .mainImg {
+    width: 100%;
+}
+
+.nextEvent {
+    width: 90%;
+    max-width: 988px;
+    height: 233px;
+    margin: 0;
+    border-radius: 4px;
+    padding: 0;
+    background: linear-gradient(92.97deg, #FFFFFF 6.79%, rgba(255, 255, 255, 0.52) 100%);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color: #041461;
+    font-size: 24px;
+    font-weight: 600;
+
+}
+
+@media (max-width: 576px) {
+    .nextEvent {
+        font-size: 20px;
+    }
+}
+
+.nextEvent .top img {
+    width: 32px !important;
+}
+
+.nextEvent .top {
+    width: 187px;
+}
+
+.nextEvent p {
+    padding: 0;
+    margin: 0;
+}
+
+.nextEvent .content {
+    max-width: 440px;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.nextEvent .center {
+    max-width: 440px;
+    width: 100%;
+}
+
+.nextEvent .bottom h3 {
+    font-size: 30px;
+    font-weight: 600;
+    margin: 0;
+    margin-top: 15px;
+    padding: 0;
+}

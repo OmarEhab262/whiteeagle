@@ -1,0 +1,22 @@
+.textContent h3 {
+  text-align: center;
+  max-width: 250px !important;
+  font-size: 20px !important;
+}
+
+.textContent img {
+  width: 150px !important;
+}
+
+.mainLine {
+  margin-top: 30px;
+  margin-bottom: 20px;
+  background-color: #fff;
+  height: 2px;
+  border-radius: 70px;
+}
+
+.Services {
+  /* width: 80%;
+    margin: auto; */
+}

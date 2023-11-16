@@ -1,0 +1,10 @@
+@font-face {
+  font-family: MainFont;
+  src: url("../src/Assets/fonts/MainFont.ttf");
+}
+
+body {
+  margin: 0;
+  font-family: "MainFont";
+  background: #041461;
+}

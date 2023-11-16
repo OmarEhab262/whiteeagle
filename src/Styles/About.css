@@ -1,0 +1,36 @@
+.about-title {
+    direction: rtl;
+    color: #041461;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.about-title li:not(:first-child) {
+    margin-top: 30px;
+}
+
+/* Media query for small-sized devices (phones) */
+@media (max-width: 576px) {
+    .about-title {
+        font-size: 20px;
+    }
+}
+
+.main {
+    background: linear-gradient(92.97deg, #FFFFFF 0%, rgba(255, 255, 255, 0.49) 100%);
+}
+
+.mainImg {
+    width: 100%;
+    padding: 3px;
+}
+
+.img {
+    margin-bottom: 1rem;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+}
