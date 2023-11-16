@@ -1,10 +1,9 @@
 {
   "files": {
-    "main.css": "/whiteeagle/static/css/main.d9628a8d.css",
-    "main.js": "/whiteeagle/static/js/main.cf4c17a7.js",
+    "main.css": "/whiteeagle/static/css/main.ace7a806.css",
+    "main.js": "/whiteeagle/static/js/main.c5f3b47c.js",
     "static/media/MainFont.ttf": "/whiteeagle/static/media/MainFont.0bff71d9b37001e42b93.ttf",
     "static/media/mainpage.svg": "/whiteeagle/static/media/mainpage.620ced51979d51e7eadb213df37b7b14.svg",
-    "static/media/branding.jpg": "/whiteeagle/static/media/branding.3ad2fb5d27a241421ca9.jpg",
     "static/media/w5.jpg": "/whiteeagle/static/media/w5.98a81d0695214170614f.jpg",
     "static/media/about.svg": "/whiteeagle/static/media/about.d3892ad4e82d6ef9b8449c2f974b2b71.svg",
     "static/media/w4.jpg": "/whiteeagle/static/media/w4.ab6becc49b44e78b69db.jpg",
@@ -12,9 +11,9 @@
     "static/media/w6.jpg": "/whiteeagle/static/media/w6.7822df67c09b0517bc02.jpg",
     "static/media/w7.jpg": "/whiteeagle/static/media/w7.d9cbb15c3ae87aeeffc4.jpg",
     "static/media/w8.jpg": "/whiteeagle/static/media/w8.3a4207ed57f792771271.jpg",
-    "static/media/footerLogo.svg": "/whiteeagle/static/media/footerLogo.e0c8faf311b70c2a6e7546b3e7eab4fd.svg",
     "static/media/logo.svg": "/whiteeagle/static/media/logo.425a1941182c5713f4fdd7368db2b233.svg",
     "static/media/w2.jpg": "/whiteeagle/static/media/w2.f2315a9c5b7b120cce37.jpg",
+    "static/media/branding.jpg": "/whiteeagle/static/media/branding.e5561474b8bde1fac9eb.jpg",
     "static/media/phone.svg": "/whiteeagle/static/media/phone.deec7f540ce6e59781668c574758292a.svg",
     "static/media/w2.svg": "/whiteeagle/static/media/w2.ae0287c4ce1c53dd7f2240b0e49c8a79.svg",
     "static/media/calender.svg": "/whiteeagle/static/media/calender.85d62dd0f37aee05943cac73a692eaf8.svg",
@@ -27,7 +26,6 @@
     "static/media/s4.svg": "/whiteeagle/static/media/s4.b1b7ddee0a05c4efe894dd13ee5ab8f1.svg",
     "static/media/s1.svg": "/whiteeagle/static/media/s1.91e4f274d9b36bc1e8bbb3ec7a674690.svg",
     "static/media/w3.svg": "/whiteeagle/static/media/w3.88b244f490470def250632b5c17a11fa.svg",
-    "static/media/line.svg": "/whiteeagle/static/media/line.b46852d0145e8647ab19376c17a0a995.svg",
     "static/media/slick.woff": "/whiteeagle/static/media/slick.295183786cd8a1389865.woff",
     "static/media/calender2.svg": "/whiteeagle/static/media/calender2.a4b98d3c2946cc3889db13602b4aa35a.svg",
     "static/media/twitter.svg": "/whiteeagle/static/media/twitter.dba408b710049925d4598cda4314b5b5.svg",
@@ -38,11 +36,11 @@
     "static/media/clock.svg": "/whiteeagle/static/media/clock.5c7cc8e24b69059e1a18934c9edb6160.svg",
     "index.html": "/whiteeagle/index.html",
     "static/media/facebook.svg": "/whiteeagle/static/media/facebook.1de556d9e9f91bf9e1304809c2d55c06.svg",
-    "main.d9628a8d.css.map": "/whiteeagle/static/css/main.d9628a8d.css.map",
-    "main.cf4c17a7.js.map": "/whiteeagle/static/js/main.cf4c17a7.js.map"
+    "main.ace7a806.css.map": "/whiteeagle/static/css/main.ace7a806.css.map",
+    "main.c5f3b47c.js.map": "/whiteeagle/static/js/main.c5f3b47c.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9628a8d.css",
-    "static/js/main.cf4c17a7.js"
+    "static/css/main.ace7a806.css",
+    "static/js/main.c5f3b47c.js"
   ]
 }
