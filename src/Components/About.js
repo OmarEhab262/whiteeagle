@@ -7,7 +7,7 @@ function About() {
   return (
     <>
       <Title name="نبذة عنا" />
-      <div className="main row m-0 p-3 d-flex align-items-center justify-content-center mt-5">
+      <div className="mainAbout row m-0 p-3 d-flex align-items-center justify-content-center mt-5 ">
         <div className="img col-lg-4 col-md-12 col-sm-12 mb-4">
           <img className="mainImg p-3" src={about} alt="about" />
         </div>
