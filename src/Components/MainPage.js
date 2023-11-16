@@ -15,11 +15,25 @@ const imageArray = [w1, w2, w4, w5, w6, w7, w8];
 
 const MainPage = () => {
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
+  const [preloadedImages, setPreloadedImages] = useState([]);
 
   useEffect(() => {
+    // Preload images
+    const preloadImages = () => {
+      const images = imageArray.map((src) => {
+        const img = new Image();
+        img.src = src;
+        return img;
+      });
+      setPreloadedImages(images);
+    };
+
+    preloadImages();
+
+    // Set interval to change images
     const intervalId = setInterval(() => {
       setCurrentImageIndex((prevIndex) => (prevIndex + 1) % imageArray.length);
-    }, 2500); // Change image every 2.5 seconds
+    }, 2500);
 
     // Clear the interval when the component is unmounted
     return () => clearInterval(intervalId);
