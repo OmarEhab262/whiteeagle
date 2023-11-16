@@ -7,12 +7,24 @@ import About from "./About";
 import Services from "./Services";
 import We from "./We";
 import Footer from "./Footer";
+import { useEffect } from "react";
+import { useNavigate } from "react-router-dom";
 function Home() {
-  window.addEventListener("popstate", function (event) {
-    // This function will be called when the user navigates back or forward
-    console.log("Back or forward button was pressed");
-    window.location.href = "/";
-  });
+  const navigate = useNavigate();
+
+  useEffect(() => {
+    const handlePopState = () => {
+      console.log("Back or forward button was pressed");
+      navigate("/");
+    };
+
+    window.addEventListener("popstate", handlePopState);
+
+    return () => {
+      window.removeEventListener("popstate", handlePopState);
+    };
+  }, [navigate]);
+
   return (
     <>
       <section id="Home">
