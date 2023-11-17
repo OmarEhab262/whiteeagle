@@ -2,6 +2,7 @@
 
 import React, { useEffect, useRef } from "react";
 import "../Styles/Branding.css";
+import { useNavigate } from "react-router-dom";
 
 const Branding = () => {
   const HOURHAND = useRef(null);
@@ -32,6 +33,20 @@ const Branding = () => {
 
     return () => clearInterval(interval);
   }, []);
+  const navigate = useNavigate();
+
+  useEffect(() => {
+    const handlePopState = () => {
+      console.log("Back or forward button was pressed");
+      navigate("/");
+    };
+
+    window.addEventListener("popstate", handlePopState);
+
+    return () => {
+      window.removeEventListener("popstate", handlePopState);
+    };
+  }, [navigate]);
 
   return (
     <div className="background-image">
