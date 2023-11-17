@@ -20,7 +20,9 @@ function Services() {
           <div className="col-12 col-md-3 col-lg-3 mb-4 d-sm-flex justify-content-center  ms-3 me-3">
             <div className="textContent d-flex align-items-center justify-content-center flex-column">
               <img src={s1} alt="s1" />
-              <h3 className="mt-3">تنظيم المؤتمرات والمعارض وإدارتها</h3>
+              <h3 className="mt-3">
+                تنظيم المؤتمرات والمعارض العامة والمتخصصة
+              </h3>
             </div>
           </div>
         </div>

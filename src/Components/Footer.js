@@ -11,7 +11,7 @@ function Footer() {
     <div className="footer bg-light text-center mt-5 p-3">
       <div className="logoFooter m-5">
         <h2 className="mt-4" style={{ fontSize: "32px", color: "#041461" }}>
-          لتواصل معنا
+          للتواصل معنا
         </h2>
       </div>
       <div className="container contact">
@@ -29,8 +29,8 @@ function Footer() {
             <p style={{ fontSize: "20px", margin: "0 10px" }}>
               <a href="https://wa.me/2001022550799" target="blank">
                 01022550799
-              </a>{" "}
-              -
+              </a>
+
               <a href="https://wa.me/2001022550788" target="blank">
                 01022550788
               </a>
