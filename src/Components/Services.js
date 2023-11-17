@@ -9,8 +9,8 @@ function Services() {
   return (
     <>
       <Title name="خدماتنا" />
-      <div className="container mt-5 text-light ">
-        <div className="row d-flex align-items-start justify-content-center Services ">
+      <div className=" services container  mt-5 text-light">
+        <div className="row d-flex align-items-start justify-content-center  ">
           <div className="col-12 col-md-3 col-lg-3 mb-4  ms-3 me-3">
             <div className="textContent d-flex align-items-center justify-content-center flex-column">
               <img src={s4} alt="s4" />

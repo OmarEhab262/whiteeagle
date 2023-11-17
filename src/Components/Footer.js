@@ -27,7 +27,13 @@ function Footer() {
           </div>
           <div className="col-md-6 contactRight d-flex align-items-center justify-content-center">
             <p style={{ fontSize: "20px", margin: "0 10px" }}>
-              01022550799 - 01022550788
+              <a href="https://wa.me/2001022550799" target="blank">
+                01022550799
+              </a>{" "}
+              -
+              <a href="https://wa.me/2001022550788" target="blank">
+                01022550788
+              </a>
             </p>
             <img src={phone} alt="phone" style={{ width: "40px" }} />
           </div>
