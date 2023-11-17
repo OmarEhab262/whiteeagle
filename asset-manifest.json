@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/whiteeagle/static/css/main.5646b809.css",
-    "main.js": "/whiteeagle/static/js/main.c6e1b0f7.js",
-    "static/media/MainFont.ttf": "/whiteeagle/static/media/MainFont.0bff71d9b37001e42b93.ttf",
+    "main.css": "/whiteeagle/static/css/main.63f1b21d.css",
+    "main.js": "/whiteeagle/static/js/main.265a3e2d.js",
     "static/media/mainpage.svg": "/whiteeagle/static/media/mainpage.620ced51979d51e7eadb213df37b7b14.svg",
     "static/media/w5.jpg": "/whiteeagle/static/media/w5.98a81d0695214170614f.jpg",
+    "static/media/Almarai-Regular.ttf": "/whiteeagle/static/media/Almarai-Regular.4d8fe12612ad34e16602.ttf",
     "static/media/about.svg": "/whiteeagle/static/media/about.d3892ad4e82d6ef9b8449c2f974b2b71.svg",
     "static/media/w4.jpg": "/whiteeagle/static/media/w4.ab6becc49b44e78b69db.jpg",
+    "static/media/Tajawal-Medium.ttf": "/whiteeagle/static/media/Tajawal-Medium.39f6e7909da6851b0fca.ttf",
     "static/media/w1.jpg": "/whiteeagle/static/media/w1.d1ffce53d33e0662059d.jpg",
     "static/media/w6.jpg": "/whiteeagle/static/media/w6.7822df67c09b0517bc02.jpg",
     "static/media/w7.jpg": "/whiteeagle/static/media/w7.d9cbb15c3ae87aeeffc4.jpg",
@@ -36,11 +37,11 @@
     "static/media/clock.svg": "/whiteeagle/static/media/clock.5c7cc8e24b69059e1a18934c9edb6160.svg",
     "static/media/facebook.svg": "/whiteeagle/static/media/facebook.1de556d9e9f91bf9e1304809c2d55c06.svg",
     "index.html": "/whiteeagle/index.html",
-    "main.5646b809.css.map": "/whiteeagle/static/css/main.5646b809.css.map",
-    "main.c6e1b0f7.js.map": "/whiteeagle/static/js/main.c6e1b0f7.js.map"
+    "main.63f1b21d.css.map": "/whiteeagle/static/css/main.63f1b21d.css.map",
+    "main.265a3e2d.js.map": "/whiteeagle/static/js/main.265a3e2d.js.map"
   },
   "entrypoints": [
-    "static/css/main.5646b809.css",
-    "static/js/main.c6e1b0f7.js"
+    "static/css/main.63f1b21d.css",
+    "static/js/main.265a3e2d.js"
   ]
 }
